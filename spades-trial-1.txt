@@ -1,0 +1,1 @@
+spades.py --pe2-1 patient_B_R1.fq --pe2-2 patient_B_R2.fq --pe3-1 patient_C_R1.fq --pe3-2 patient_C_R2.fq --pe4-1 patient_D_R1.fq --pe4-2 patient_D_R2.fq --pe5-1 patient_E_R1.fq --pe5-2 patient_E_R2.fq --pe6-1 patient_F_R1.fq --pe6-2 patient_F_R2.fq --pe7-1 patient_G_R1.fq --pe7-2 patient_G_R2.fq -o processed
